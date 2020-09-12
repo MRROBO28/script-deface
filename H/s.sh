@@ -1,0 +1,1 @@
+mv ../DefMak.html /sdcard
